@@ -1,9 +1,9 @@
 # CSE 123 Project 2 - Router Implementation
 ---
 
-Name: Yihan Zhang  
-PID: A91061243  
-Login:  yiz324  
+Actual files are not public according to Academic Integrity. Inquiry for code: shzhangyihan@gmail.com
+
+Yihan Zhang  
 
 ---
 ## Overview
